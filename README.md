@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **raouaabenmehre393@gmail.com**
 
-- ⚡ Fun fact **⚡ Fun fact: I believe Ctrl+Z is the ultimate lifesaver!**
+-  **⚡ Fun fact: I believe Ctrl+Z is the ultimate lifesaver!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
