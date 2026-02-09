@@ -49,8 +49,8 @@ I believe **data + curiosity = unstoppable growth 🚀**
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/raouaa-ben-mehrez" target="_blank">
-    <img align="center" src="https://www.linkedin.com/in/raouaa-ben-mehrez-b24126270/" height="30" width="40" />
+   <a href="https://linkedin.com/in/raouaa-ben-mehrez" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://instagram.com/raouabenmehrez" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
